@@ -1,0 +1,301 @@
+id,name,average_rating,rank,min_players,max_players,playing_time,min_playtime,max_playtime,publishers,categories
+1,Die Macher,7.59453,424,3,5,240,240,240,"['Hans im Glück', 'Moskito Spiele', 'Ediciones MasQueOca', 'Portal Games', 'Spielworxx', 'sternenschimmermeer', 'Stronghold Games', 'Valley Games, Inc.', 'YOKA Games']","['Economic', 'Negotiation', 'Political']"
+2,Dragonmaster,6.64233,4969,3,4,30,30,30,"['E. S. Lowe Company Inc.', 'Milton Bradley']","['Card Game', 'Fantasy']"
+3,Samurai,7.46946,269,2,4,60,30,60,"['Fantasy Flight Games', 'Hans im Glück', '999 Games', 'ABACUSSPIELE', 'Astrel Games', 'Ceilikan Jogos', 'Descartes Editeur', 'Edge Entertainment', 'Galakta', 'Hobby Japan', 'Korea Boardgames', 'Lacerta', 'Lautapelit.fi', 'Rio Grande Games', 'Skandinavisk  Spil Kompagni', 'Smart Ltd', 'Wargames Club Publishing']","['Abstract Strategy', 'Medieval']"
+4,Tal der Könige,6.60045,6646,2,4,60,60,60,['KOSMOS'],['Ancient']
+5,Acquire,7.34256,343,2,6,90,90,90,"['3M', 'The Avalon Hill Game Co', 'Arclight Games', 'Avalon Hill', 'Banana Games', 'Dujardin', 'Grow Jogos e Brinquedos', 'Korea Boardgames', 'PS-Games', 'Renegade Game Studios', 'Schmidt France', 'Schmidt International', 'Schmidt Spiele', 'Selecta Spel en Hobby', 'Smart Games, Inc.']","['Economic', 'Territory Building']"
+6,Mare Mediterraneum,6.49235,13591,2,6,240,240,240,['Historien Spiele Galerie (Historien Spielegalerie)'],"['Civilization', 'Nautical']"
+7,Cathedral,6.53884,2352,2,2,20,20,20,"['Brightway Products Ltd', 'Falomir Juegos', 'Family Games, Inc.', 'Gazebo Games UK Ltd.', 'Gigamic', 'Holzinsel', 'I.Q. Company', 'Lagoon Games', 'Mattel, Inc.', 'Robert P. Moore Games', 'Yangxin Industrial Company Limited']","['Abstract Strategy', ""Children's Game"", 'City Building', 'Territory Building']"
+8,Lords of Creation,6.06062,11775,2,5,120,120,120,"['Vendetta', 'Warfrog Games']","['Civilization', 'Fantasy']"
+9,El Caballero,6.46857,3668,2,4,90,90,90,"['999 Games', 'Hans im Glück', 'Rio Grande Games']",['Exploration']
+10,Elfenland,6.67887,1362,2,6,60,60,60,"['AMIGO', '999 Games', 'Albi', 'Corfix', 'Hobby World', 'Midgaard Games', 'Rio Grande Games']","['Fantasy', 'Travel']"
+11,Bohnanza,7.05894,525,2,7,45,45,45,"['AMIGO', '999 Games', 'Brain Games', 'Broadway Toys LTD', 'Copag Cards', 'Corfix', 'Fractal Juegos', 'G3', 'Gigamic', 'Giochi Uniti', 'Kaissa Chess & Games', 'Kikigagne?', 'Korea Boardgames', 'Lautapelit.fi', 'Lifestyle Boardgames Ltd', 'Lookout Games', 'Mercurio', 'Midgaard Games', 'Möbius Games', 'Paper Iyagi', 'PaperGames (III)', 'Piatnik', 'Rio Grande Games', 'Spilbræt.dk', 'Stratelibri', 'Swan Panasia Co., Ltd.', 'Tempo Games (I)']","['Card Game', 'Farming', 'Negotiation']"
+12,Ra,7.63188,135,2,5,60,45,60,"['alea', 'Ravensburger', '25th Century Games', '999 Games', 'ABACUSSPIELE', 'DiceTree Games', 'Edge Entertainment', 'Giochix.it', 'Hobby World', 'Korea Boardgames', 'New Games Order, LLC', 'Planeta Igor', 'Precisamente', 'Rawstone', 'Reflexshop', 'Rio Grande Games', 'Swan Panasia Co., Ltd.', 'Tranjis Games', 'Überplay', 'Windrider Games']","['Ancient', 'Mythology']"
+13,CATAN,7.09932,553,3,4,120,60,120,"['KOSMOS', '999 Games', 'Albi', 'Asmodee', 'Astrel Games', 'BGA Plus', 'Brain Games', 'Broadway Toys LTD', 'Capcom Co., Ltd.', 'Catan Studio', 'Competo / Marektoy', 'danspil', 'Descartes Editeur', 'Devir', 'Dexy Co', 'Enigma (Bergsala Enigma)', 'Eurogames', 'Filosofia Éditions', 'Galakta', 'Giochi Uniti', 'GP Games', 'Grow Jogos e Brinquedos', 'HaKubia', 'Hanayama', 'Hobby World', 'Ideal Board Games', 'Igroljub', 'IntelliGames.BG', 'Ísöld ehf.', 'Kaissa Chess & Games', 'Korea Boardgames', 'L&M Games', 'Laser plus', 'Lautapelit.fi', 'Logojogos', 'Mayfair Games', 'MIPL', 'NeoTroy Games', 'Ninive Games', 'Paper Iyagi', 'Piatnik', 'Smart Ltd', 'Spilbræt.dk', 'Stupor Mundi', 'SuperHeated Neurons', 'Swan Panasia Co., Ltd.', 'Tilsit', 'Top Toys', 'TRY SOFT', 'Vennerød Forlag AS']","['Economic', 'Negotiation']"
+14,Basari,6.75168,2595,3,4,25,25,25,"['F.X. Schmid', 'New Games Order, LLC', 'Out of the Box Publishing']",['Negotiation']
+15,Cosmic Encounter,6.92614,1487,2,6,90,90,90,"['Eon', 'Alga', 'ASS Altenburger Spielkarten', 'Descartes Editeur', 'Games Workshop Ltd.', 'Grow Jogos e Brinquedos', 'Tsukuda Hobby', 'West End Games']","['Bluffing', 'Negotiation', 'Science Fiction']"
+16,MarraCash,6.93148,2849,3,4,60,60,60,['KOSMOS'],['Economic']
+17,Button Men,6.35677,5276,2,2,5,5,5,"['Cheapass Games', '(Unknown)', 'Atlas Games', 'Five Rings Publishing Group', 'Guardians of Order', 'Looney Labs', 'Slag-Bla entertainment (now XXXenophile Books)', 'Studio Foglio', 'Truant Spiele']","['Collectible Components', 'Dice', 'Fighting', 'Print & Play']"
+18,RoboRally,7.05555,590,2,8,120,45,120,"['Wizards of the Coast', '999 Games', 'ADC Blackfire Entertainment', 'AMIGO', 'Avalon Hill', 'Hasbro', 'Play Factory']","['Maze', 'Miniatures', 'Racing', 'Science Fiction']"
+19,Wacky Wacky West,6.27545,3838,2,4,45,30,45,"['Hans im Glück', 'Mayfair Games']","['American West', 'Bluffing', 'City Building']"
+20,Full Metal Planète,7.51115,2877,2,4,90,90,90,['Ludodélire'],"['Miniatures', 'Science Fiction']"
+21,Gateway to the Stars,5.60606,21871,1,7,0,0,0,['Twentieth Century Renaissance'],"['Civilization', 'Exploration', 'Science Fiction', 'Wargame']"
+22,Magic Realm,7.29677,1613,1,16,240,60,240,"['The Avalon Hill Game Co', 'Hobby Japan']","['Adventure', 'Exploration', 'Fantasy', 'Fighting']"
+23,Divine Right,7.16981,4387,2,6,360,360,360,"['Tactical Studies Rules (TSR)', 'Pungo Games', 'Right Stuf', 'Worthington Games']","['Fantasy', 'Political', 'Wargame']"
+24,Twilight Imperium,6.62639,4923,2,6,240,240,240,['Fantasy Flight Games'],"['Civilization', 'Negotiation', 'Political', 'Science Fiction', 'Space Exploration', 'Wargame']"
+25,Battlemist,5.89803,12351,2,6,200,200,200,['Fantasy Flight Games'],"['Exploration', 'Fantasy', 'Wargame']"
+26,Age of Renaissance,7.09528,1769,3,6,300,120,300,"['The Avalon Hill Game Co', 'Descartes Editeur']","['Civilization', 'Economic', 'Medieval', 'Renaissance']"
+27,Supremacy: The Game of the Superpowers,5.67638,17021,2,6,300,120,300,"['Supremacy Games', 'Descartes Editeur', 'Grow Jogos e Brinquedos']","['Economic', 'Modern Warfare', 'Political', 'Wargame']"
+28,Illuminati,6.47047,2363,2,6,180,60,180,"['Steve Jackson Games', 'Descartes Editeur', 'Devir', 'Edge Entertainment', 'Finnish Game House', 'Laurin Verlag', 'Pegasus Spiele', 'Queen Games', 'Raven Distribution', 'Ubik']","['Card Game', 'Humor', 'Negotiation', 'Political', 'Science Fiction']"
+29,Terrain Vague,6.70347,12967,2,4,120,120,120,['Ludodélire'],"['Fighting', 'Humor']"
+30,Dark Tower,6.87545,3210,1,4,90,90,90,['Milton Bradley'],"['Adventure', 'Electronic', 'Exploration', 'Fantasy', 'Fighting']"
+31,Dark World,5.40559,25985,2,5,90,90,90,"['AS Company', 'Canada Games Company Lmt.', 'Crown & Andrews Ltd.', 'Diset S. A.', 'Kod Kod', 'Mattel, Inc.', 'Schmidt France', 'Schmidt Spiele', 'Selecta Spel en Hobby', 'Waddingtons']","['Adventure', 'Exploration', 'Fantasy', 'Fighting', 'Miniatures']"
+32,Buffalo Chess,6.07234,9449,2,2,30,30,30,"['Action GT', 'BHS Games', 'GP Games', 'Lakeside', ""OPEN'N PLAY"", 'Pelikan', 'Piatnik', 'Playte', 'Popcorn Games', 'Schmidt Spiele', 'Venice Connection', 'Winning Moves France']","['Abstract Strategy', 'American West', ""Children's Game""]"
+,,,,,,,,,,
+34,Arkham Horror,6.66363,5488,1,8,180,180,180,"['Chaosium', 'Descartes Editeur', 'Hobby Japan']","['Adventure', 'Horror', 'Novel-based']"
+,,,,,,,,,,
+36,Federation & Empire,6.4069,7246,2,8,300,300,300,"['Amarillo Design Bureau, Inc.', 'Task Force Games']","['Science Fiction', 'Wargame']"
+37,Dragon Masters,5.80197,20000,2,4,120,120,120,['Games Workshop Ltd.'],"['Fantasy', 'Wargame']"
+38,Runes,6.1466,14593,2,4,30,30,30,"['Eon', 'franjos Spieleverlag']","['Deduction', 'Word Game']"
+39,Darkover,5.31652,23323,2,4,60,60,60,['Eon'],"['Bluffing', 'Fantasy', 'Novel-based']"
+40,Borderlands,6.72819,7449,2,4,120,120,120,"['Edition Spielkunst', 'Eon', 'Tsukuda Hobby', 'Welt der Spiele']","['Bluffing', 'Civilization', 'Fantasy', 'Negotiation', 'Political']"
+41,Can't Stop,6.91177,774,2,4,30,30,30,"['Parker Brothers', 'Asmodee', 'Borras Plana S.A.', 'Clipper', 'Eagle-Gryphon Games', 'Ediciones de Mente', 'Editrice Giochi', 'Face2Face Games', 'förlAgo AB', 'franjos Spieleverlag', 'Gonggan27', 'Maldito Games', 'Miro Company', 'New Games Order, LLC', ""OPEN'N PLAY"", 'Oya', 'Palitoy Ltd.', 'Playte', 'Popcorn Games', 'Ravensburger', 'Swan Panasia Co., Ltd.', 'Vennerød Forlag AS']",['Dice']
+42,Tigris & Euphrates,7.7052,105,2,4,120,60,120,"['Hans im Glück', '999 Games', 'CZ Cloud Soft Co. Ltd', 'Devir', 'Edge Entertainment', 'Fantasy Flight Games', 'Galápagos Jogos', 'Giochi Uniti', 'Heidelberger Spieleverlag', 'Hobby Japan', 'Lacerta', 'Matagot', 'Mayfair Games', 'Pegasus Spiele', 'Smart Ltd', 'Top Licence Games', 'Wargames Club Publishing', 'Z-Man Games']","['Abstract Strategy', 'Ancient', 'Civilization', 'Territory Building']"
+43,Airlines,6.57639,6497,2,6,90,90,90,['ABACUSSPIELE'],"['Aviation / Flight', 'Economic']"
+44,David & Goliath,6.48944,3214,3,6,60,60,60,"['Berliner Spielkarten', 'Pegasus Spiele', 'Playroom Entertainment', 'Wargames Club Publishing']",['Card Game']
+45,Perudo,6.91576,832,2,6,30,15,30,"['(Public Domain)', 'Endless Games (I)', 'F.X. Schmid', 'Milton Bradley', '(Self-Published)', 'A. F. Blake Enterprises', 'Alga', 'Arclight Games', 'Asmodee', 'BASF-Knoll', 'Blake Enterprises', 'Brimtoy', 'Brybelly', 'Cappelen', 'Cardinal', 'Crown & Andrews Ltd.', 'Damm / Egmont', 'E. S. Lowe Company Inc.', 'Friendly Games, Inc.', 'Front Porch Classics', 'Giochi Uniti', 'Goliath Games', 'Grafix BV', 'Hasbro', 'Hazgaard Editions', 'Inca Perudo', 'International Games', 'Jumbo', 'Korea Boardgames', 'KOZAK Games', 'L4 Studios', 'Mattel, Inc.', 'McNaughty Games', 'Mr. B Games', 'The Op Games', 'Outset Media', 'Parker Brothers', 'Paul Lamond Games Ltd', 'Piatnik', 'Planet Finska', 'Pressman Toy Corp.', 'Ravensburger', 'Reveal Entertainment, Inc.', 'Spin Master Ltd.', 'Stupor Mundi', 'University Games', 'Walt Disney Productions (Disney)', 'Zygomatic']","[""Children's Game"", 'Dice', 'Movies / TV / Radio theme', 'Party Game']"
+46,Medici,7.17163,679,2,6,60,60,60,"['AMIGO', 'ABACUSSPIELE', 'Asmodee', 'Devil Dice Games', 'Grail Games', 'Group SNE', 'Lui-même', 'PaperGames (III)', 'Rio Grande Games', 'Steamforged Games Ltd.']",['Renaissance']
+47,Chinatown,7.42992,358,3,5,60,60,60,"['alea', 'Ravensburger', '(Unknown)', 'Competo / Marektoy', 'Filosofia Éditions', 'Heidelberger Spieleverlag', 'Mandoo Games', 'Quined White Goblin Games', 'Siam Board Games', 'Z-Man Games']","['City Building', 'Economic', 'Negotiation']"
+48,Krieg und Frieden,6.08851,6683,2,4,90,90,90,"['999 Games', 'La Tana dei Goblin', 'TM Spiele']","['Medieval', 'Political']"
+49,Mamma Mia!,6.4792,1964,2,5,30,30,30,"['ABACUSSPIELE', 'Brain Games', 'cutia.ro', 'DV Games', 'G3', 'HomoLudicus', 'Kaissa Chess & Games', 'Korea Boardgames', 'Lifestyle Boardgames Ltd', 'Möbius Games', 'Oya', 'PS-Games', 'Red Glove', 'Rio Grande Games', 'Swan Panasia Co., Ltd.', 'Vennerød Forlag AS']","['Card Game', 'Memory']"
+50,Lost Cities,7.23841,332,2,2,30,30,30,"['KOSMOS', '999 Games', 'Albi', 'Competo / Marektoy', 'Devir', 'Filosofia Éditions', 'Galakta', 'Group SNE', 'IELLO', 'Kaissa Chess & Games', 'Korea Boardgames', 'Land of Beautiful Mind (سرزمین ذهن زیبا)', 'Laser plus', 'Lautapelit.fi', 'Midgaard Games', 'Piatnik', 'Playhouse Ltd', 'Rio Grande Games', 'Stupor Mundi', 'SuperHeated Neurons', 'Swan Panasia Co., Ltd.', 'Tilsit', 'Zvezda', 'گیمِ پندو (Pendo Games)']","['Card Game', 'Exploration', 'Math']"
+51,Ricochet Robots,7.02874,851,1,99,30,30,30,"['Hans im Glück', 'ABACUSSPIELE', 'Devir', 'Gém Klub Kft.', 'Happy Baobab', 'Korea Boardgames', 'MS Edizioni', 'Oya', 'Playgo Hungary', 'Rio Grande Games', 'Swan Panasia Co., Ltd.', 'Z-Man Games']","['Abstract Strategy', 'Maze', 'Puzzle', 'Real-time']"
+52,Mighty Empires,6.19371,8179,2,3,300,300,300,['Games Workshop Ltd.'],"['Fantasy', 'Territory Building', 'Wargame']"
+53,Brauerei,6.00641,20118,3,6,0,0,0,['Fanfor-Verlag'],['Economic']
+54,Tikal,7.32726,339,2,4,90,90,90,"['Ravensburger', 'Super Meeple', 'ABACUSSPIELE', 'CMON Global Limited', 'Conclave Editora', 'DV Games', 'Egmont Polska', 'Gém Klub Kft.', 'Hobby Game Mall', 'Keep Exploring Games', 'Maldito Games', 'Rio Grande Games', 'Siam Board Games', 'YOKA Games', 'Zvezda']","['Exploration', 'Territory Building']"
+55,Sophie's World,4.83776,25538,2,6,90,60,90,"['KOSMOS', 'Orion', 'Pontaccio', 'Sophisticated Games']","['Novel-based', 'Trivia']"
+,,,,,,,,,,
+57,Schoko & Co.,6.64771,5868,2,4,180,180,180,['Schmidt Spiele'],['Economic']
+58,Kings & Things,6.51432,3346,2,4,180,60,180,"['Games Workshop Ltd.', 'West End Games', 'Z-Man Games', 'Hobby Japan', 'Pegasus Spiele']","['Bluffing', 'Exploration', 'Fantasy', 'Humor', 'Territory Building', 'Wargame']"
+59,Giganten,6.69945,2931,3,4,90,90,90,['KOSMOS'],"['Economic', 'Exploration', 'Industry / Manufacturing']"
+60,Vinci,7.06906,1184,3,6,120,120,120,['Descartes Editeur'],"['Ancient', 'Civilization', 'Territory Building']"
+61,Fossil,5.43729,24701,2,6,40,40,40,"['Goldsieber Spiele', 'Rio Grande Games']",['Ancient']
+62,Curse of the Mummy's Tomb,5.30169,25525,1,4,120,120,120,"['Games Workshop Ltd.', 'Sfera']","['Adventure', 'Ancient', 'Horror']"
+63,Samurai: Game of Politics and Warfare in Feudal Japan,6.44004,6841,2,8,180,180,180,"['The Avalon Hill Game Co', 'Battleline']","['Medieval', 'Political', 'Wargame']"
+64,Joan of Arc,6.26182,7605,3,6,150,150,150,"['Clash of Arms Games', 'Tilsit', 'Truant Spiele']","['Card Game', 'Medieval', 'Political', 'Wargame']"
+65,The Garden Game,4.08929,Not Ranked,2,6,30,30,30,['Ampersand Press'],['Card Game']
+66,Löwenherz,7.04415,1553,2,4,90,90,90,"['Goldsieber Spiele', 'Rio Grande Games']","['Medieval', 'Political']"
+67,Conquest,6.3987,7290,2,4,120,120,120,"['(Self-Published)', 'Bütehorn Spiele (Buchholz Verlag)', 'Hexagames (I)', 'Numbskull Games', 'Quest Games']","['Abstract Strategy', 'Ancient', 'Wargame']"
+68,Successors (First/Second Edition),7.03753,4517,2,4,180,180,180,"['The Avalon Hill Game Co', 'Wydawnictwo Gołębiewski']","['Ancient', 'Wargame']"
+69,Bollox,6.7,16157,2,2,20,20,20,"['Cadaco', 'The London Game Company LTD']",['Abstract Strategy']
+70,Big City,6.85653,1936,2,5,60,60,60,"['Goldsieber Spiele', '999 Games', 'Rio Grande Games']",['City Building']
+71,Civilization,7.49443,448,2,7,360,360,360,"['Hartland Trefoil Ltd.', 'ACE Pelit Oy', 'The Avalon Hill Game Co', 'Compendium Games', 'Descartes Editeur', 'Gibsons', 'Joc Internacional', 'Piatnik', 'Spiel & Kunst', 'Welt der Spiele']","['Ancient', 'Civilization', 'Economic', 'Negotiation']"
+72,Verräter,6.67782,2537,3,4,60,60,60,"['Adlung-Spiele', 'New Games Order, LLC']","['Card Game', 'Political']"
+73,Show Manager,6.98138,2091,2,6,60,60,60,"['Queen Games', 'db-Spiele']",['Card Game']
+74,Apples to Apples,5.75234,7042,4,10,30,20,30,"['Beverly Enterprises, Inc.', 'Excalibur Electronics', 'Holiday Games', 'Mattel, Inc.', 'Out of the Box Publishing', 'Pegasus Spiele', 'Tactic']","['Card Game', 'Humor', 'Party Game']"
+75,Falling,5.49781,24182,4,8,5,5,5,"['Cheapass Games', 'Paizo Publishing', 'Portal Games', 'Titanic Games']","['Card Game', 'Fantasy', 'Print & Play', 'Real-time']"
+76,Air Baron,6.40734,5261,2,6,120,120,120,['The Avalon Hill Game Co'],"['Aviation / Flight', 'Economic', 'Territory Building']"
+77,"EastFront: The War in Russia, 1941-45",7.67916,2805,2,2,240,240,240,['Columbia Games'],"['Wargame', 'World War II']"
+78,"WestFront: The War in Europe, 1943-45",6.85903,8230,2,2,240,240,240,['Columbia Games'],"['Wargame', 'World War II']"
+79,MedFront: War in North Africa 1940-43,6.34016,12507,2,2,180,180,180,['Columbia Games'],"['Wargame', 'World War II']"
+80,VolgaFront: East of EastFront 1942-43,7.57536,Not Ranked,2,2,240,240,240,['Columbia Games'],"['Expansion for Base-game', 'Wargame', 'World War II']"
+81,"EuroFront: War in Europe, 1939-45",7.08229,Not Ranked,2,6,600,600,600,['Columbia Games'],"['Expansion for Base-game', 'Wargame', 'World War II']"
+82,Bobby Lee: The Civil War in Virginia 1861-1865,6.75491,6023,2,2,240,240,240,['Columbia Games'],"['American Civil War', 'Wargame']"
+83,Sam Grant: The Civil War in the West 1862-1864,6.42466,11674,2,2,180,180,180,['Columbia Games'],"['American Civil War', 'Wargame']"
+84,Rommel in the Desert,7.55209,2065,2,2,480,180,480,"['Columbia Games', 'Doit Games', 'Game Preserve']","['Wargame', 'World War II']"
+85,Quebec 1759,6.94288,3846,2,2,60,60,60,"['Columbia Games', 'Gamma Two Games']","['Age of Reason', 'American Indian Wars', 'Wargame']"
+,,,,,,,,,,
+87,Victory: World War II,6.36678,6988,2,4,120,120,120,"['Columbia Games', 'Tilsit']","['Wargame', 'World War II']"
+88,Torres,7.08827,731,2,4,60,60,60,"['F.X. Schmid', 'HUCH!', 'ABACUSSPIELE', 'Devir', 'IDW Games', 'Ravensburger', 'Rio Grande Games', 'Swan Panasia Co., Ltd.', 'Tilsit', 'White Goblin Games']","['Abstract Strategy', 'Medieval']"
+89,Blue vs. Gray,6.73897,5389,2,4,120,120,120,"['GMT Games', 'QED Games']","['American Civil War', 'Card Game', 'Dice', 'Wargame']"
+90,Star Wars: Episode 1 – Clash of the Lightsabers,6.20751,6488,2,2,20,20,20,"['Hasbro', 'Milton Bradley']","['Card Game', 'Movies / TV / Radio theme', 'Science Fiction']"
+91,Paths of Glory,8.06346,230,2,2,480,480,480,"['GMT Games', 'Devir', 'DiceTree Games', 'GaGa Games', 'Udo Grebe Gamedesign', 'Wargames Club Publishing', 'Wydawnictwo Gołębiewski']","['Wargame', 'World War I']"
+,,,,,,,,,,
+93,El Grande,7.75495,89,2,5,120,60,120,"['Hans im Glück', '999 Games', 'Användbart Litet Företag', 'Descartes Editeur', 'Devir', 'Feelindigo', 'Filosofia Éditions', 'Gabinete Lúdico', 'Gém Klub Kft.', 'Giochi Uniti', 'Lautapelit.fi', 'Lucky Duck Games', 'MINDOK', 'Möbius Games', 'Rio Grande Games']","['Medieval', 'Renaissance']"
+94,Union Pacific,7.19057,968,2,6,90,90,90,"['AMIGO', '999 Games', 'Rio Grande Games']","['Economic', 'Trains']"
+95,Igel Ärgern,6.40574,4321,2,6,30,30,30,"['Doris & Frank', 'University Games']","['Animals', ""Children's Game"", 'Dice']"
+96,Broadsides & Boarding Parties,6.21341,7196,2,2,60,60,60,"[""Citadel's Game Series (CGS)"", 'Milton Bradley']","['Nautical', 'Pirates', 'Wargame']"
+97,Conquest of the Empire,6.29025,5308,2,6,240,180,240,['Milton Bradley'],"['Ancient', 'Economic', 'Wargame']"
+98,Axis & Allies,6.57465,1771,2,5,180,180,180,"['Jedko Games', 'Milton Bradley', 'Nova Game Designs', 'PewterCraft']","['Economic', 'Wargame', 'World War II']"
+99,Fortress America,6.71713,2367,2,4,180,180,180,['Milton Bradley'],"['Science Fiction', 'Wargame']"
+,,,,,,,,,,
+101,Detroit-Cleveland Grand Prix,6.77888,3196,2,6,60,60,60,['Mayfair Games'],"['Card Game', 'Racing']"
+102,Klunker,6.19667,5443,3,5,30,30,30,"['Hans im Glück', 'Rio Grande Games']",['Card Game']
+103,Titan,6.96848,1468,2,6,240,30,240,"['The Avalon Hill Game Co', 'Gorgonstar Publications', 'Heidelberger Spieleverlag', 'Valley Games, Inc.']","['Fantasy', 'Wargame']"
+104,Extrablatt,6.97926,6227,3,4,90,90,90,['Moskito Spiele'],['Territory Building']
+105,Colossal Arena,6.76319,1283,2,5,60,40,60,"['The Avalon Hill Game Co', 'Altar Games', 'Delta Vision Publishing', 'Edge Entertainment', 'Fantasy Flight Games', 'Hobby Japan', 'Korea Boardgames', 'Lautapelit.fi', 'Midgaard Games', 'Nexus Editrice', 'Swan Panasia Co., Ltd.', 'Ubik']","['Card Game', 'Fantasy', 'Mythology']"
+106,Mystery Rummy: Jack the Ripper,6.94762,1473,2,4,45,45,45,"['U.S. Games Systems, Inc.', 'Eagle-Gryphon Games', 'Edge Entertainment', 'Kaissa Chess & Games', 'Neptuno Games', 'Pegasus Spiele']","['Card Game', 'Murder/Mystery']"
+107,Peaceful Resistance,5.72353,Not Ranked,2,3,30,30,30,['D&R Games'],['Abstract Strategy']
+108,TAMSK,6.76496,2867,2,2,20,20,20,"['Don & Co.', 'Rio Grande Games', 'Schmidt Spiele']","['Abstract Strategy', 'Real-time']"
+109,Wettstreit der Baumeister,6.10616,8882,3,4,45,45,45,"['Historien Spiele Galerie (Historien Spielegalerie)', 'KOSMOS', 'Tilsit']",['City Building']
+110,Auf Achse,6.23471,3999,2,6,60,60,60,"['Dino Toys s. r. o.', 'Disk Říčany', 'F.X. Schmid', 'Grow Jogos e Brinquedos', 'Ravensburger', 'REGIO Játék', 'Rhenania Gruppe', 'Schmidt Spiele', 'Vini-Spil']","['Economic', 'Movies / TV / Radio theme', 'Transportation']"
+111,Rheinländer,6.65194,2851,3,5,45,45,45,"['Face2Face Games', 'Hasbro', 'Parker Brothers']","['Abstract Strategy', 'Medieval', 'Territory Building']"
+112,Condottiere,6.87736,993,2,6,45,20,45,"['Eurogames', '(Unknown)', 'Arclight Games', 'Delta Vision Publishing', 'Descartes Editeur', 'Edge Entertainment', 'Fantasy Flight Games', 'Galakta', 'Giochi Uniti', 'Heidelberger Spieleverlag', 'Hobby World', 'Lautapelit.fi', 'Nexus Editrice', 'Roomiz Games', 'Ubik', 'Z-Man Games']","['Bluffing', 'Card Game', 'Medieval', 'Negotiation']"
+113,"Plotters, Inc.",6.72618,6284,4,6,60,60,60,"['Berliner Spielkarten', 'BoardM Factory', 'Playte', '数寄ゲームズ (Suki Games)']",['Card Game']
+114,Ransom,6.33625,15511,2,6,45,45,45,['(Self-Published)'],"['Abstract Strategy', 'Bluffing', 'City Building', 'Economic', 'Negotiation']"
+115,I'm the Boss!,6.77159,1660,3,6,60,60,60,"['Eagle-Gryphon Games', 'Edge Entertainment', 'Face2Face Games', 'Kaissa Chess & Games', 'Korea Boardgames', 'New Games Order, LLC', 'Schmidt Spiele', 'Siam Board Games', 'Stratelibri', 'Swan Panasia Co., Ltd.']","['Economic', 'Negotiation']"
+116,Guillotine,6.53889,1452,2,5,30,30,30,"['Wizards of the Coast', 'AMIGO', 'Darwin Project', 'Enigma (Bergsala Enigma)', 'Halloween Concept', 'Hasbro', 'Play Factory', 'PS-Games']","['Age of Reason', 'Card Game', 'Humor']"
+117,Ta Yü,6.94843,2413,2,4,45,30,45,"['Crown & Andrews Ltd.', 'Goliath Games', 'KOSMOS', 'Rio Grande Games']",['Abstract Strategy']
+118,Modern Art,7.50657,213,3,5,45,45,45,"['Hans im Glück', 'Arrakis Games', 'CMON Global Limited', 'DiceTree Games', 'Drosselmeyer & Co. Ltd.', 'Fractal Juegos', 'Galápagos Jogos', 'GeGe Co. Ltd.', 'Kaissa Chess & Games', 'Land of Beautiful Mind (سرزمین ذهن زیبا)', 'Lautapelit.fi', 'Lavka Games', 'Lighthouse Games', 'Matagot', 'Mayfair Games', 'New Games Order, LLC', 'Odysseia Jogos', 'Oink Games', 'Pegasus Spiele', 'Phantasia Co., Ltd', 'Rebel Sp. z o.o.', 'Wargames Club Publishing', 'WoodCat']","['Card Game', 'Economic']"
+119,Kingdoms,6.66653,1654,2,4,45,45,45,"['Hans im Glück', 'ADC Blackfire Entertainment', 'Arclight Games', 'cutia.ro', 'Delta Vision Publishing', 'Edge Entertainment', 'Enigma (Bergsala Enigma)', 'Fantasmagoria', 'Fantasy Flight Games', 'Menart', 'Midgaard Games', 'MINDOK', 'Swan Panasia Co., Ltd.']","['Abstract Strategy', 'Fantasy', 'Medieval']"
+120,Hoity Toity,6.51899,1963,2,5,45,45,45,"['alea', 'The Avalon Hill Game Co', 'F.X. Schmid', 'G&RRR', 'Gibsons', 'Jumbo', 'MIKA', 'Überplay', 'Vini-Spil']",['Bluffing']
+121,Dune,7.59071,475,2,6,180,60,180,"['The Avalon Hill Game Co', 'Descartes Editeur', 'Hobby Japan']","['Bluffing', 'Fighting', 'Negotiation', 'Novel-based', 'Political', 'Science Fiction']"
+122,Quo Vadis?,6.47558,2819,3,5,45,45,45,"['Hans im Glück', 'AMIGO', 'Mayfair Games']","['Ancient', 'Negotiation', 'Political']"
+123,Green Thumb Cards,7.31034,Not Ranked,2,5,45,45,45,['Playful Minds'],['Card Game']
+124,Primordial Soup,6.92262,1259,3,4,90,90,90,"['Doris & Frank', 'Z-Man Games']",['Prehistoric']
+125,Money!,6.53672,2433,3,5,30,30,30,"['cosaic', 'Eagle-Gryphon Games', 'Egmont Polska', 'Fractal Juegos', 'GaGa Games', 'Goldsieber Spiele', 'Group SNE', 'Playte', 'Rio Grande Games', 'TWOPLUS Games', 'Wargames Club Publishing', '놀이속의세상']",['Card Game']
+126,The Really Nasty Horse Racing Game,6.27186,5819,2,6,90,90,90,"['Rascals Products Limited', 'University Games', 'Upstarts', 'Winning Moves UK Ltd.']","['Animals', 'Racing', 'Sports']"
+127,Princess Ryan's Star Marines,5.40864,24223,1,6,120,120,120,['The Avalon Hill Game Co'],"['Deduction', 'Science Fiction']"
+128,Take it Easy!,6.60856,2207,1,8,20,20,20,"['Burley Games', 'F.X. Schmid', ""Spear's Games"", 'Arclight Games', 'Brain Picnic', 'Cappelen', 'Cranio Creations', 'DiceTree Games', 'Eagle-Gryphon Games', 'förlAgo AB', 'IELLO', 'Play Smart', 'Ravensburger', 'Rebel Sp. z o.o.', 'Swan Panasia Co., Ltd.', 'White Goblin Games', 'Zacatrus', 'Zvata Studios']","['Abstract Strategy', 'Puzzle']"
+,,,,,,,,,,
+130,Iron Dragon,7.0172,2337,2,6,240,240,240,['Mayfair Games'],"['Fantasy', 'Trains', 'Transportation']"
+,,,,,,,,,,
+132,Caesar & Cleopatra,6.39544,2462,2,2,60,60,60,"['KOSMOS', '999 Games', 'Filosofia Éditions', 'Kaissa Chess & Games', 'Laser plus', 'Rio Grande Games', 'Tilsit']","['Ancient', 'Bluffing', 'Card Game']"
+133,Frischfleisch,6.13096,12528,2,6,120,120,120,['2F-Spiele'],"['Exploration', 'Horror']"
+134,Cape Horn,5.99287,8454,3,5,60,45,60,"['KOSMOS', 'Rio Grande Games', 'Tilsit']","['Nautical', 'Racing']"
+135,Kontor,5.96441,7587,2,4,60,60,60,"['999 Games', 'Goldsieber Spiele', 'Tilsit']","['City Building', 'Nautical', 'Renaissance']"
+136,Robin Hood,5.42988,22851,3,6,30,30,30,['AMIGO'],['Card Game']
+137,Pass the Bomb,5.82647,7786,2,10,20,20,20,"['Anvol', 'AS Company', 'Asmodee', 'danspil', 'Gibsons', 'Giochi Uniti', 'Goliath Games', 'Grand V', 'Jumbo', 'Kod Kod', 'Peliko Oy', 'Piatnik', 'Pressman Toy Corp.', 'Ravensburger', 'Venice Connection', 'Week End Games', 'Zygomatic']","['Electronic', 'Party Game', 'Real-time', 'Word Game']"
+,,,,,,,,,,
+139,Hoax,5.9238,13279,3,12,45,45,45,"['Eon', 'Hexagames (I)']","['Bluffing', 'Deduction', 'Fantasy', 'Medieval']"
+140,Pit,6.3886,2049,3,8,90,30,90,"['(Self-Published)', 'Arclight Games', 'Clipper', 'Copp Clark Publishing Company', 'Crown & Andrews Ltd.', 'Editorial Dos Pasos', 'Editrice Giochi', 'Fractal Juegos', 'Fundex', 'Grimaud', 'Hasbro', 'Holdson', 'John Waddington Ltd.', 'Kaissa Chess & Games', 'Korea Boardgames', 'Lighthouse Games', 'Nordic Games GmbH', 'Parker Brothers', 'Repos Production', 'Russimco Games', 'Schmidt Spiele', ""Spear's Games"", 'Top Cards', 'Waddingtons', 'Winning Moves Games (USA)', 'Yetem S.A.']","['Card Game', 'Economic', 'Party Game']"
+141,Andromeda,6.38408,4058,3,5,60,60,60,"['999 Games', 'ABACUSSPIELE', 'Grünspan-Spiele', 'Rio Grande Games']","['Science Fiction', 'Space Exploration', 'Territory Building']"
+142,Vino,6.42571,5160,3,5,90,90,90,"['Goldsieber Spiele', 'Rio Grande Games']",['Economic']
+143,Wortelboer,4.17647,Not Ranked,2,4,30,30,30,['Think Games'],"['Animals', 'Card Game']"
+144,Elfenwizards,6.199,14888,3,6,90,90,90,['White Wind'],['Negotiation']
+145,Metropolis,6.35667,7242,2,5,90,90,90,['Otto Maier Verlag'],"['City Building', 'Negotiation']"
+146,Buy Low Sell High,6.12671,6058,2,4,60,60,60,"['Editrice Giochi', 'Group SNE', 'Überplay', 'Wargames Club Publishing']",['Economic']
+147,Crude: The Oil Game,6.69305,3399,2,4,90,90,90,"['St. Laurent Games', 'Hexagames (I)', 'Pegasus Spiele', 'Stronghold Games']","['Economic', 'Industry / Manufacturing']"
+148,Die Glücksritter,5.7087,19170,3,6,60,60,60,['Schmidt Spiele'],"['Bluffing', 'Medieval']"
+,,,,,,,,,,
+150,PitchCar,7.26746,488,2,8,30,30,30,"['Ferti', 'Goldsieber Spiele', 'Historien Spiele Galerie (Historien Spielegalerie)', 'Lautapelit.fi', 'Vision']","['Action / Dexterity', ""Children's Game"", 'Party Game', 'Racing', 'Sports']"
+151,Piratenbillard,6.56417,6013,2,4,15,15,15,['ABACUSSPIELE'],"['Action / Dexterity', 'Pirates']"
+152,Mü & More,7.15362,1684,2,8,60,60,60,"['AMIGO', 'DiceTree Games', 'Doris & Frank', 'Rio Grande Games']","['Card Game', 'Game System']"
+153,Take 5!,6.55423,2619,2,6,60,60,60,"['999 Games', 'AMIGO', 'G3']","['Card Game', 'Number']"
+154,Union vs. Central,6.81071,10571,2,2,360,360,360,['Winsome Games'],"['American West', 'Card Game', 'Economic', 'Trains', 'Transportation']"
+155,Was sticht?,6.98852,3806,3,4,60,60,60,"['Moskito Spiele', 'New Games Order, LLC']","['Card Game', 'Deduction']"
+156,Wildlife Adventure,6.81059,4502,2,6,60,60,60,"['Otto Maier Verlag', 'Ravensburger']","['Animals', 'Exploration', 'Transportation']"
+157,Eurorails,7.10066,2006,2,6,240,180,240,['Mayfair Games'],"['Economic', 'Trains', 'Transportation']"
+158,Elfengold,6.94644,Not Ranked,2,6,120,120,120,"['999 Games', 'AMIGO']","['Expansion for Base-game', 'Fantasy', 'Transportation']"
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+162,The Awful Green Things From Outer Space,6.54589,2688,2,2,90,60,90,"['Grow Jogos e Brinquedos', 'Steve Jackson Games', 'Tactical Studies Rules (TSR)']","['Science Fiction', 'Wargame']"
+163,Balderdash,6.47197,2116,2,6,60,60,60,"['Canada Games Company Lmt.', '(Unknown)', 'Casper', 'Drumond Park Ltd.', 'The Game Works, Inc.', 'The Games Gang, LTD', 'Hasbro', 'Mattel, Inc.', 'Milton Bradley', 'Parker Brothers', 'Schmidt Spiele', 'Tactic', 'Target Games', 'Vaka-Helgafell', 'Ventura Games', 'Western Publishing Company', 'Weston Group']","['Bluffing', 'Party Game', 'Word Game']"
+164,"Before I Kill You, Mister Spy...",5.43986,25644,2,6,30,30,30,['Cheapass Games'],"['Card Game', 'Spies/Secret Agents']"
+165,Black Box,6.39668,4773,1,2,20,20,20,"['Alga', 'Capiépa Éditeur: Jeux Éducatifs', 'Clipper', 'franjos Spieleverlag', 'MB Spiele', 'Parker Brothers', 'Waddingtons']","['Abstract Strategy', 'Deduction', 'Puzzle']"
+166,Black Death,5.73571,20626,2,6,120,120,120,"['Blacksburg Tactical Research Center', 'Devir', 'Sphinx Spieleverlag']","['Medical', 'Medieval']"
+167,Dicke Kartoffeln,6.19817,12321,2,6,120,120,120,['ABACUSSPIELE'],"['Economic', 'Farming']"
+168,Empire Builder,6.95888,1671,2,6,180,180,180,['Mayfair Games'],"['Economic', 'Trains', 'Transportation']"
+169,En Garde,6.50121,3246,2,2,30,20,30,"['ABACUSSPIELE', 'Eagle-Gryphon Games', 'Ferti', 'New Games Order, LLC']","['Card Game', 'Sports']"
+170,Family Business,6.07033,3962,2,6,30,30,30,"['Lookout Games', 'Mayfair Games', 'ADC Blackfire Entertainment', 'Asmodee', 'Cutting Edge Publishing & Design House GmbH', 'Hobby Japan', 'Spielfreaks, Ltd.', 'Stratelibri', 'Truant Spiele', 'Zygomatic']","['Card Game', 'Mafia']"
+171,Chess,7.20882,449,2,2,0,0,0,"['(Public Domain)', '(Self-Published)', '(Unknown)', '3M', 'ABRA', 'Adams Brothers & Shardlow Ltd.', 'Air France', 'Alexander', 'Allied Van Lines', 'Ancient Chess', 'Arrco Playing Card Co.', 'Bar-Zim', 'Bayerwald Spiele', 'Bello Games New York, Inc.', ""Berwick's Toy Co. Ltd."", 'Big League Promotions Corp.', 'Bisonte', 'Blatz', 'Bozart Toys', 'BulbHead', 'Cardinal', 'à la carte AG', 'Cayro, The Games', 'CCI India', 'Chad Valley Co Ltd.', 'Challenge Master Game Co Ltd', 'Character Games LTD', 'Chess Armory', 'Chess Geeks', 'ChessUSA', 'CHH Games', 'Chupa Chups', 'Classic Games', 'Coca-Cola', 'Colombine BVBA', 'Comedy Central', 'Comedy Partners', 'Creative Crafthouse', 'Creative Educational Aids Pvt. Ltd.', 'Crisloid', 'Dal Negro', 'Darmon Diffusion', 'David Westnedge', 'De La Rue', 'DeAgostini', 'Deuce', 'DGT', 'Dilemma Games', 'Dourios', 'DreamWorks', 'Dynamic Games / Dynamic Design Industries', 'E. S. Lowe Company Inc.', 'Efko', 'EnumeroCribbageBoards', 'Epoch Playthings', 'Estrela', 'Excalibur Electronics', 'F. W. Woolworth Company', 'Fame Products', 'Fifth Avenue Crystal Ltd.', 'FridgePlay', 'Friendly Games, Inc.', 'Fundex', 'Game Factory', 'Gibsons', 'Golden', 'Guigou', 'H. Baron', 'Handfaste', 'Hartung-Spiele', 'Hasbro', 'Hausemann & Hötte N.V.', 'HAY', 'Hearth & Hand with Magnolia', 'Hexagames (I)', 'Heyne', 'Holdson', 'Homas Spelen', 'House Martin', 'House of Marbles', 'House of Staunton', 'Imaginarium', 'innovative KIDS', 'Inovac Rima SA', 'Intex Syndicate', 'Invicta Games', 'Italocremona', 'John Jaques of London', 'John N. Hansen Co., Inc.', 'Jumbo', 'K & C Ltd', 'K.E. Mathiasen A/S', 'Kärnan', 'King International', 'Kingsway Inc', 'Kitfix Swallow Group', 'Klee', 'Klopffleisch', 'L. P. Septímio', 'Lagoon Games', 'Lardy International', 'LEGO', 'Lindop (William Lindop LTD)', 'Longfield Games', 'Ludens Planet', 'Magnetic Poetry Inc', 'Majora', 'Manchester United Football Club', 'Marigó', 'The Mark of Westminster', 'Masters Games', 'Mattel, Inc.', 'MB Jeux', 'MB Spellen', 'MB Spiele', 'MEGAPLAST', 'Melissa & Doug', 'Meridian Point Products', 'Merit', 'Millenium', 'Milton Bradley', 'Mixlore', 'Monkey Pod Games', 'The Museum of Modern Art (MoMA)', 'Musketeer Chess', 'Neroulia', 'nestorgames', 'Nintendo Co., Ltd.', 'The Noble Collection', 'Noris Spiele', ""O'Gowna Studio"", 'Olin Studio', 'The Op Games', 'Open Board Games', 'Oriental Trading Company', 'Outside Inside', 'Pacific Game Company', 'Parker Brothers', 'Patch Products', 'Paul Lamond Games Ltd', 'Pavilion', 'Peri Spiele', 'Piatnik', 'Pin International', 'Pleasantime Games', 'Poptoy', 'Pressman Toy Corp.', 'The Purple Cow', 'Ramsons', 'Research Games, Inc. / Athol / RGI / ARC', 'Revanche Spelen', 'Robin and Nell Dale', 'Rong Fa', 'Rosiness', 'Rot Ceramic', 'Sababa Toys, Inc.', 'Saitek', 'Schmidt International', 'Schmidt Spiele', 'Selchow & Righter', 'Si-Si-Spiele', 'Skor-Mor', 'Sophisticated Games', 'Søstrene Grene', ""Spear's Games"", 'Spencer Gifts', 'Spin Master Ltd.', 'Sterling Games', 'StirlingFox', 'Studio Anne Carlton (SAC)', 'Sunrise Chess & Games', 'Super Accord', 'Tactic', 'TDC Games, Inc.', 'Tesco', 'Tezuka Productions', 'Thomas Salter Ltd', 'Toy Brokers Ltd', 'U3', 'Vilac', 'Volume-One Products', 'Waddington Sanders Ltd.', 'Waddingtons', 'Walt Disney Productions (Disney)', 'Węgiel', 'Western Publishing Company', 'Westside Fun Games', 'WHSmith', 'Wiley Publishing, Inc.', 'Winning Moves Games (USA)', 'Wizards of the Coast', 'WizKids (I)', 'Wm F. Drueke & Sons, Inc.', 'Wood Expressions', 'WorldWise Imports, LLC', 'Οδύσσεια']",['Abstract Strategy']
+172,For Sale,7.25539,334,3,6,30,30,30,"['Eagle-Gryphon Games', 'IELLO', 'Ravensburger', '2 Pionki', 'Albi', 'AURUM, Inc.', 'Baborka Games', 'Brain Games', 'Compaya.hu: Gamer Café Kft.', 'Competo / Marektoy', 'F.X. Schmid', 'Gabinete Lúdico', 'Geekach Games', 'HaKubia', 'Heidelberger Spieleverlag', 'Jolly Thinkers', 'Kaissa Chess & Games', 'MEBO Games', 'Meeple Virus', 'NeoTroy Games', 'New Games Order, LLC', 'PaperGames (III)', 'Portal Games', 'Primigenio', 'Siam Board Games', 'SPIEL DAS! Verlag', 'TLAMA games', 'Top Toys', 'Überplay', 'uplay.it edizioni', 'Wargames Club Publishing', 'Zito! Ώρα για παιχνίδι', 'Взрослые дети', 'Нескучные игры', 'פרש משחקים: Game Knight']","['Card Game', 'Economic']"
+173,Formula Dé,6.99297,964,2,10,120,120,120,"['Eurogames', '999 Games', 'Asmodee', 'Descartes Editeur', 'Fantasy Shop', 'Top Licence Games']","['Racing', 'Sports']"
+174,T-Rex,5.49007,22521,3,5,45,45,45,"['Hans im Glück', 'Rio Grande Games']",['Card Game']
+175,What the Heck?,6.47251,2786,2,5,20,20,20,"['999 Games', 'AMIGO', 'Asmodee', 'Corfix', 'Dal Negro', 'F.X. Schmid', 'Fractal Juegos', 'Gigamic', 'Korea Boardgames', 'Mercurio', 'Möbius Games', 'Morapiaf', 'Oliphante', 'Otto Maier Verlag', 'Ravensburger', 'Swan Panasia Co., Ltd.', 'Waddingtons', 'Winning Moves Games (USA)']","['Animals', 'Bluffing', 'Card Game']"
+176,Give Me the Brain!,5.83007,7102,3,8,15,15,15,"['Cheapass Games', 'James Ernest Games', 'Steve Jackson Games', 'Truant Spiele']","['Card Game', 'Zombies']"
+177,Advanced Civilization,8.01324,Not Ranked,2,8,480,360,480,['The Avalon Hill Game Co'],"['Ancient', 'Civilization', 'Economic', 'Expansion for Base-game', 'Negotiation']"
+178,Mole Hill,5.98073,12537,2,2,15,15,15,"['Användbart Litet Företag', 'Blatz', 'nestorgames']",['Abstract Strategy']
+179,Nuba,6.17016,17466,2,2,10,10,10,"['AMIGO', 'Games & Puzzles Publications']",['Abstract Strategy']
+180,Pool Position,5.75468,18251,2,5,30,30,30,['F.X. Schmid'],"['Abstract Strategy', 'Card Game']"
+181,Risk,5.59589,25702,2,6,120,120,120,"['Parker Brothers', '(Unknown)', 'Alga', 'Avalon Hill', 'Barnes & Noble', 'Borras Plana S.A.', 'Carlit', 'Clipper', 'Editrice Giochi', 'El Greco', 'Grow Jogos e Brinquedos', 'Guau', 'Hasbro', 'Juegos Crone', 'Majora', 'Manhattan Agencies', 'MEGAPLAST', 'Miro Company', 'Nilco S.A.', 'Palitoy Ltd.', 'PanGraf', 'Schmidt Spiele', 'Smeets & Schippers', 'Tomy', 'Waddingtons', 'Winning Moves Games (USA)']","['Territory Building', 'Wargame']"
+182,Hungry,6.3693,5331,2,4,30,30,30,"['Kanga Games', 'Nasza Księgarnia', 'Playroom Entertainment', 'Spiel Spass', 'W. Nostheide Verlag GmbH']","['Card Game', 'Medieval']"
+183,Stonehenge,6.27793,12070,2,2,15,15,15,"['Blatz', 'Pin International']",['Abstract Strategy']
+,,,,,,,,,,
+185,Devil Bunny Needs a Ham,5.4035,25711,2,5,30,30,30,"['Cheapass Games', 'Greater Than Games, LLC']","['Abstract Strategy', 'Dice', 'Print & Play']"
+186,Split,5.90476,14148,2,6,30,30,30,"['GDC-GameDevCo Ltd.', 'Hasbro', 'Parker Brothers']",['Card Game']
+,,,,,,,,,,
+188,Go,7.65189,214,2,2,180,30,180,"['(Public Domain)', '(Unknown)', '3M', 'Alga', 'Ariel Productions Ltd', 'The Avalon Hill Game Co', 'Barnes & Noble', 'Borras Plana S.A.', 'Brybelly', 'Carl Weible KG', 'Carlton Books', 'Cathay', 'Cayro, The Games', 'CHH Games', 'Copp Clark Publishing Company', 'Creative Crafthouse', 'Crisloid', 'Dal Negro', 'Dilemma Games', 'Dujardin', 'Dynamic Games / Dynamic Design Industries', 'E. S. Lowe Company Inc.', 'Fame Products', 'Fratelli Fabbri Editori  (Fabbri Editore)', 'The Game Crafter, LLC', 'The Game Keeper, Inc.', 'Gamma Two Games', 'Gammon Games', 'General Sportcraft Company', 'Gentosha Education', 'Geoludie', 'Ha Ha Sisters LLC', 'Hartung-Spiele', 'Hausser', 'Hebsacker Verlag', 'HEMA', 'Hobby', 'Ishi Press International', 'J.P. Raymond Rivarola', 'Japan Publications, Inc.', 'John N. Hansen Co., Inc.', 'John Sands Pty Ltd', 'Jumbo', 'Korea Boardgames', 'L. P. Septímio', ""L'Impensé Radical"", 'Longfield Games', 'Ludens Spirit', 'Michael Stanfield', 'Milton Bradley', 'Mitra', 'Mitsubishi Fuso', 'Monkey Pod Games', 'nestorgames', 'Otto Maier Verlag', 'Pacific Game Company', 'Philos', 'Play All Day Games', 'Ponnuki', 'Reiss Games', 'Sato Kei Shoten Co., Ltd.', 'Schmidt International', 'Schmidt Spiele', 'Shin Kwang Baduk', 'Skor-Mor', ""Spear's Games"", 'Das Spiel', 'Spielquader', 'U3', 'Volume-One Products', 'Waddingtons', 'Wm F. Drueke & Sons, Inc.', 'Wood Expressions', 'Woodstock Spiele', 'WorldWise Imports, LLC', 'Yellow Mountain Imports', 'ZTS Plastyk']",['Abstract Strategy']
+189,Die Siedler von Nürnberg,6.90986,3342,3,4,90,90,90,['KOSMOS'],"['Medieval', 'Negotiation']"
+190,Dolce Vita,6.13731,11512,3,5,30,30,30,['Hans im Glück'],['Card Game']
+,,,,,,,,,,
+192,Nicht die Bohne!,6.32459,4558,3,6,45,45,45,"['AMIGO', 'Korea Boardgames', 'Lifestyle Boardgames Ltd', 'Nasza Księgarnia', 'Oya']",['Card Game']
+193,Fill or Bust,5.78173,11248,2,10,30,30,30,"['ABACUSSPIELE', 'Bowman Games', 'Game Factory', 'GP Games', 'HOT Games', 'PS-Games']",['Dice']
+194,Groo: The Game,6.28574,5628,2,4,45,45,45,['Archangel Studios'],"['Card Game', 'City Building', 'Comic Book / Strip', 'Fantasy']"
+195,NASCAR Champions,5.49398,22888,2,5,30,30,30,['Milton Bradley'],"['Dice', 'Racing', 'Sports']"
+196,Kremlin,6.96584,1614,3,6,75,75,75,"['The Avalon Hill Game Co', 'Fata Morgana Spiele', 'New Games Order, LLC']","['Negotiation', 'Political']"
+197,HellRail: Second Perdition,6.04262,16505,3,4,75,75,75,"['Giochi Rari', 'Glastyn Games']","['Card Game', 'Trains', 'Transportation']"
+198,Buried Treasure,6.02707,11525,2,4,30,30,30,['F.X. Schmid'],"['Card Game', 'Pirates']"
+199,Manhattan,6.73098,1466,2,4,45,45,45,"['Hans im Glück', 'Mandoo Games', '999 Games', 'Act in games', 'Arclight Games', 'Broadway Toys LTD', 'Fabrika Igr', 'FoxGames', 'FoxMind', 'Korea Boardgames', 'Last Level', 'Litas Spil', 'Ludodélire', 'Mayfair Games', 'Mercurio', 'Nelospelit', 'Olsen', 'Rio Grande Games', 'Tactic']",['City Building']
+200,Entdecker,6.42077,3730,2,4,60,60,60,"['999 Games', 'Goldsieber Spiele', 'Mayfair Games']",['Exploration']
+201,The Rose King,6.81258,1608,2,2,30,30,30,"['db-Spiele', 'KOSMOS', '999 Games', ""OPEN'N PLAY"", 'Playte', 'リゴレ (rigoler)', 'Tilsit', 'White Goblin Games']","['Abstract Strategy', 'Medieval']"
+202,Targui,6.40912,5263,2,4,120,120,120,['Jumbo'],"['Arabian', 'Wargame']"
+203,Skworms,4,Not Ranked,2,4,30,30,30,['Parker Brothers'],"['Action / Dexterity', ""Children's Game"", 'Horror']"
+204,Stephenson's Rocket,6.92594,1555,2,4,60,60,60,"['999 Games', 'Grail Games', 'Group SNE', 'Pegasus Spiele', 'Rio Grande Games']","['Trains', 'Transportation']"
+,,,,,,,,,,
+206,Jalape-NO!,6.15257,10618,3,9,45,45,45,"['F.X. Schmid', 'Playte', 'テンデイズゲームズ(TendaysGames)', '25th Century Games']",['Card Game']
+207,Twitch,6.09781,12176,3,6,15,15,15,"['AMIGO', 'Wizards of the Coast']","['Action / Dexterity', 'Card Game']"
+208,Ex & Hopp,5.46667,22277,2,6,30,30,30,"['F.X. Schmid', 'Ravensburger']",['Card Game']
+,,,,,,,,,,
+210,Don Pepe,6.27654,6912,3,6,30,30,30,"['Game Office', 'Hasbro', 'Parker Brothers', 'ToyCo']","['Card Game', 'Economic', 'Mafia']"
+211,Times to Remember,6.30365,9642,2,10,45,45,45,"['Blackrock Games', 'Cocktail Games', 'Hasbro', 'MB Jeux', 'MB Spiele', 'Milton Bradley']","['Party Game', 'Trivia']"
+,,,,,,,,,,
+,,,,,,,,,,
+214,Café International,6.21264,3553,2,4,60,45,60,"['AMIGO', 'Kaissa Chess & Games', 'Leo Toys', 'Mattel, Inc.', 'Relaxx', 'Rio Grande Games', 'Swan Panasia Co., Ltd.']",['Abstract Strategy']
+215,Tichu,7.57889,225,4,4,60,60,60,"['Fata Morgana Spiele', '999 Games', 'ABACUSSPIELE', 'Filosofia Éditions', 'G3', 'GP Games', 'Hobby World', 'HomoLudicus', 'Korea Boardgames', 'Maldito Games', 'Playhouse Ltd', 'Rio Grande Games', 'Swan Panasia Co., Ltd.', 'TIKI Editions', 'uplay.it edizioni', 'Vennerød Forlag AS']",['Card Game']
+216,Atlanteon,5.80452,10229,2,2,30,30,30,"['ABACUSSPIELE', 'Esdevium', 'Fantasy Flight Games', 'Heidelberger Spieleverlag']","['Abstract Strategy', 'Napoleonic']"
+217,A la carte,6.46499,2530,2,4,30,30,30,"['Heidelberger Spieleverlag', 'Moskito Spiele', 'Competo / Marektoy', 'Fantasy Flight Games', 'Giochi Uniti', 'HeidelBÄR Games', 'IELLO', 'Intrafin Games', 'Stratelibri', 'Swan Panasia Co., Ltd.', 'UBO CnC']",['Action / Dexterity']
+218,High-Bid,5.88945,12733,2,4,25,25,25,"['3M', 'The Avalon Hill Game Co', 'Casper']",['Negotiation']
+219,Volle Hütte,6.11243,12339,3,5,30,30,30,['ASS Altenburger Spielkarten'],['Economic']
+220,High Society,7.16369,546,3,5,30,15,30,"['Ravensburger', 'Across the Board', 'AMIGO', 'Eagle-Gryphon Games', 'FoxGames', 'GaGa Games', 'Gemblo Company', 'Kanga Games', 'Meeple King', 'Muduko', 'New Games Order, LLC', 'Nova Era (Нова Ера)', ""OPEN'N PLAY"", 'Origames', 'Osprey Games', 'Popcorn Games', 'SD Games', 'Studio Supernova', 'Swan Panasia Co., Ltd.', 'Überplay', 'University Games', 'Wargames Club Publishing']",['Card Game']
+221,Ikusa,7.02786,1185,2,5,360,240,360,"['Milton Bradley', 'Avalon Hill', 'Wizards of the Coast']","['Civil War', 'Medieval', 'Territory Building', 'Wargame']"
+222,Space Beans,6.08027,5068,2,6,40,40,40,"['AMIGO', 'Mercurio', 'Midgaard Games', 'Rio Grande Games']","['Card Game', 'Science Fiction']"
+223,Expeditions: Around the World,6.71038,2859,2,6,45,30,45,"['AMIGO', 'Queen Games', 'Ravensburger', 'Super Meeple', 'Arrakis Games', 'Kobold Spieleverlag']","['Adventure', 'Educational', 'Exploration', 'Transportation', 'Travel']"
+224,History of the World,7.11665,1083,3,6,270,135,270,"['Avalon Hill', 'Ragnar Brothers', 'The Avalon Hill Game Co', 'Compendium Games', 'Gibsons', 'Welt der Spiele', 'Z-Man Games']","['Civilization', 'Ancient', 'Medieval', 'Napoleonic', 'Post-Napoleonic', 'Renaissance', 'Wargame', 'World War I']"
+225,Icehouse,6.62364,5201,3,5,20,20,20,"['Crystal Caste', 'IcehouseGames', 'Looney Labs']","['Abstract Strategy', 'Real-time']"
+226,Isi,6.59659,16585,2,2,30,30,30,['Cwali'],['Abstract Strategy']
+227,Knightmare Chess,6.44432,Not Ranked,2,2,60,60,60,"['Bamboo Donkey', 'Heidelberger Spieleverlag', 'Hobby World', 'Ludodélire', 'Steve Jackson Games', 'Variantes']","['Abstract Strategy', 'Card Game', 'Expansion for Base-game']"
+228,Lunch Money,5.62742,17993,2,4,20,20,20,"['Atlas Games', 'NekoCorp']","['Card Game', 'Fighting']"
+229,King of the Elves,6.19954,4750,2,6,60,60,60,"['AMIGO', '999 Games', 'Rio Grande Games']","['Card Game', 'Fantasy', 'Travel']"
+230,Merchant of Venus,7.14029,1412,1,6,180,180,180,['The Avalon Hill Game Co'],"['Economic', 'Exploration', 'Science Fiction', 'Space Exploration', 'Transportation']"
+231,Geronimo,5.74744,19443,1,5,480,480,480,['The Avalon Hill Game Co'],"['American Indian Wars', 'American West', 'Wargame']"
+232,Serenissima,6.85666,2092,2,4,120,120,120,"['Descartes Editeur', 'Eurogames', '999 Games']","['Economic', 'Nautical', 'Renaissance']"
+,,,,,,,,,,
+234,Hannibal: Rome vs. Carthage,7.78068,397,2,2,200,40,200,"['The Avalon Hill Game Co', 'Valley Games, Inc.', 'Descartes Editeur', 'PHALANX', 'Smart Ltd']","['Ancient', 'Political', 'Wargame']"
+235,Blackbeard,6.37778,3996,1,4,240,120,240,"['The Avalon Hill Game Co', 'Descartes Editeur']","['Adventure', 'Age of Reason', 'Nautical', 'Pirates', 'Wargame']"
+,,,,,,,,,,
+237,Wooden Ships & Iron Men,7.07068,1847,2,2,300,60,300,"['The Avalon Hill Game Co', 'Battleline']","['Age of Reason', 'American Indian Wars', 'American Revolutionary War', 'Napoleonic', 'Nautical', 'Pirates', 'Post-Napoleonic', 'Wargame']"
+,,,,,,,,,,
+239,"Wagram: The Peace of Vienna, 5-6 July 1809",6.77162,10969,1,2,90,90,90,"['Hobby Japan', 'Kokusai-Tsushin Co., Ltd. (国際通信社)', 'SPI (Simulations Publications, Inc.)']","['Napoleonic', 'Wargame']"
+240,Britannia,7.18824,1038,3,5,300,180,300,"['The Avalon Hill Game Co', 'Fantasy Flight Games', 'Gibsons', 'Delta Vision Publishing', 'Devir', 'Edge Entertainment', 'Esdevium', 'Heidelberger Spieleverlag', 'Welt der Spiele']","['Ancient', 'Civilization', 'Medieval', 'Wargame']"
+241,Age of Exploration,6.01615,13131,1,6,180,180,180,"['Prism Games', 'TimJim Games']","['Exploration', 'Renaissance', 'Wargame']"
+242,Junta,6.69403,1632,2,7,240,240,240,"['Alderac Entertainment Group', 'ASS Altenburger Spielkarten', 'Borras Plana S.A.', 'Creative Wargames Workshop', 'Descartes Editeur', 'Ediciones MasQueOca', 'Hobby Japan', 'Matagot', 'Pegasus Spiele', 'Purgatory Publishing, Inc.', 'Schmidt Spiele', 'ToyCo', 'West End Games']","['Economic', 'Humor', 'Negotiation', 'Political']"
+243,Advanced Squad Leader,8.01377,480,2,2,480,120,480,"['The Avalon Hill Game Co', 'Hobby Japan', 'Multi-Man Publishing']","['Wargame', 'World War II']"
+244,Circus Maximus,6.77899,2709,2,10,120,120,120,"['The Avalon Hill Game Co', 'Battleline']","['Ancient', 'Fighting', 'Racing']"
+,,,,,,,,,,
+246,Politika,5.15143,23741,3,7,0,0,0,['Mox Srl'],"['Card Game', 'Political']"
+247,Gloria Picktoria,6.35728,4458,2,5,45,45,45,"['999 Games', 'F.X. Schmid', 'Gigamic', 'Rio Grande Games', 'U.S. Games Systems, Inc.', 'Zoch Verlag']",['Card Game']
+248,Blood Royale,6.55028,5203,3,5,240,240,240,['Games Workshop Ltd.'],"['Medieval', 'Negotiation', 'Political', 'Territory Building']"
+249,Lifeboats,6.57733,2117,3,6,90,90,90,"['Argentum Verlag', ""Walter Müller's Spielewerkstatt"", 'Z-Man Games']","['Nautical', 'Negotiation', 'Party Game']"
+250,Colonial Diplomacy,6.63514,6329,2,7,360,360,360,['The Avalon Hill Game Co'],"['Bluffing', 'Negotiation', 'Political', 'Post-Napoleonic', 'Territory Building', 'Wargame']"
+,,,,,,,,,,
+252,The Battle of Borodino: Napoleon in Russia 1812,6.73828,9522,2,2,180,180,180,"['SPI (Simulations Publications, Inc.)']","['Napoleonic', 'Wargame']"
+,,,,,,,,,,
+254,Empires in Arms,7.61112,1886,2,7,12000,120,12000,"['Australian Design Group', 'The Avalon Hill Game Co']","['Economic', 'Napoleonic', 'Negotiation', 'Political', 'Wargame']"
+255,"Jena-Auerstadt: The Battle for Prussia, 14 October 1806",6.00667,18943,2,2,150,150,150,"['Hobby Japan', 'Kokusai-Tsushin Co., Ltd. (国際通信社)', 'SPI (Simulations Publications, Inc.)']","['Napoleonic', 'Wargame']"
+256,Mississippi Queen,6.31074,2731,3,5,45,45,45,"['Goldsieber Spiele', 'Rio Grande Games', 'Simba Toys']","['Nautical', 'Transportation']"
+257,Kill Doctor Lucky,6.15579,3173,3,8,45,45,45,"['Cheapass Games', 'cosaic', 'Giochi Uniti', 'Greater Than Games, LLC', 'Paizo Publishing', 'Pegasus Spiele', 'Titanic Games', 'Truant Spiele']","['Humor', 'Murder/Mystery']"
+258,Fluxx,5.67453,10650,2,6,30,5,30,"['Looney Labs', 'AMIGO', 'Black Monk', 'Edge Entertainment', 'Hexagonal', 'Hobby Japan', 'Hobby World', 'Iron Crown Enterprises', 'Monkey Time', 'Pegasus Spiele', 'PS-Games', 'Raven Distribution', 'Swan Panasia Co., Ltd.']",['Card Game']
+259,Atlantic Storm,6.55585,5606,2,6,60,60,60,['The Avalon Hill Game Co'],"['Card Game', 'Nautical', 'Wargame', 'World War II']"
+260,Starship Troopers: Prepare For Battle!,5.8281,16609,2,4,60,45,60,['The Avalon Hill Game Co'],"['Movies / TV / Radio theme', 'Science Fiction', 'Wargame']"
+261,Olympia 2000 (v. Chr.),6.0767,10621,2,5,30,30,30,['Hans im Glück'],"['Ancient', 'Card Game', 'Sports']"
+,,,,,,,,,,
+263,Manitou,6.0901,8678,2,4,45,45,45,['Goldsieber Spiele'],['Card Game']
+264,Enemy in Sight,6.25418,5955,2,8,120,120,120,"['The Avalon Hill Game Co', 'Lost Battalion Games']","['Age of Reason', 'American Revolutionary War', 'Card Game', 'Napoleonic', 'Nautical', 'Wargame']"
+265,Intrigue,6.37739,2962,3,5,45,45,45,"['AMIGO', 'Cranio Creations', 'F.X. Schmid', 'Igiari', 'Jelly Jelly Games', 'Mandoo Games', 'Mayfair Games', 'Popcorn Games']","['Negotiation', 'Renaissance']"
+,,,,,,,,,,
+267,Tycoon,6.75701,4212,2,4,90,90,90,['Jumbo'],['Economic']
+268,Cheops,6.1936,9206,2,5,45,45,45,['Hans im Glück'],['Ancient']
+,,,,,,,,,,
+270,Svea Rike,6.38679,6226,2,5,120,90,120,"['Användbart Litet Företag', 'Casper']","['Civilization', 'Economic']"
+271,It's Mine!,5.91297,10056,3,5,30,30,30,"['Cocktail Games', 'Egmont Polska', 'Popular de Juguetes', 'Top Cards', 'Winning Moves Games (USA)', 'Winning Moves International Ltd']","['Card Game', 'Real-time']"
+272,Downtown,6.33014,11667,3,6,60,60,60,"['ABACUSSPIELE', 'Grünspan-Spiele']","['City Building', 'Negotiation']"
+273,Africa 1880,5.67448,19886,3,6,120,120,120,"['Tilsit', 'Truant Spiele']","['Bluffing', 'Exploration', 'Negotiation', 'Political', 'Post-Napoleonic', 'Wargame']"
+274,Guerilla,6.26981,7703,3,6,120,60,120,['The Avalon Hill Game Co'],"['Card Game', 'Civil War', 'Modern Warfare', 'Political', 'Wargame']"
+275,Extinction,4.96889,24068,2,6,60,60,60,['Incredible Game Company'],['Prehistoric']
+276,"La Guerre de l'Empereur: The Emperor's War, 1805-1815",6.41549,16131,2,7,240,240,240,['OSG (Operational Studies Group)'],"['Economic', 'Napoleonic', 'Negotiation', 'Wargame']"
+277,Res Publica,5.90028,7601,3,5,60,30,60,"['Queen Games', 'Avalanche Press Ltd.', 'Hexagames (I)']","['Card Game', 'Civilization']"
+278,Catan Card Game,6.70545,1207,2,2,120,60,120,"['KOSMOS', '999 Games', 'Albi', 'Competo / Marektoy', 'Devir', 'Filosofia Éditions', 'Galakta', 'Giochi Uniti', 'Kaissa Chess & Games', 'Laser plus', 'Mayfair Games', 'Piatnik', 'Smart Ltd', 'Tilsit']","['Card Game', 'City Building', 'Territory Building']"
+279,The Very Clever Pipe Game,6.22103,5897,2,4,20,20,20,['Cheapass Games'],"['Abstract Strategy', 'Card Game']"
+280,Neue Spiele im alten Rom,6.80483,7433,2,7,60,20,60,"['New Games Order, LLC', 'Piatnik']","['Abstract Strategy', 'Game System']"
+281,Ostindiska kompaniet,4.69364,26040,2,5,120,120,120,"['G&RRR', 'neoGames']","['Economic', 'Nautical']"
+282,Vikingatid,5.95268,18415,2,6,300,300,300,['Trollspel'],"['Medieval', 'Wargame']"
+283,Advanced Third Reich,6.90512,4181,1,6,1200,180,1200,['The Avalon Hill Game Co'],"['Wargame', 'World War II']"
+284,Lords of the Sierra Madre (Second Edition),6.38153,11132,2,8,240,240,240,"['Decision Games (I)', 'Sierra Madre Games']","['American West', 'Economic', 'Negotiation', 'Post-Napoleonic', 'Transportation', 'Wargame']"
+285,Monsters Ravage America,5.87413,12529,1,4,90,90,90,['The Avalon Hill Game Co'],"['Science Fiction', 'Wargame']"
+286,Machiavelli,7.09621,2862,4,8,480,480,480,"['The Avalon Hill Game Co', 'Battleline']","['Bluffing', 'Negotiation', 'Political', 'Renaissance', 'Wargame']"
+287,Bazaar,6.52284,3071,2,6,45,45,45,"['3M', 'Discovery Toys', 'Eagle-Gryphon Games', 'Estrela', 'Klee', 'Parker Spiele', 'Schmidt International', 'Schmidt Spiele']","['Abstract Strategy', 'Math', 'Puzzle']"
+288,Rossyïa 1917,7.26806,11122,2,5,300,300,300,['Azure Wish Enterprise (AWE)'],"['Civil War', 'Wargame']"
+289,Chariot Lords,6.68103,7909,3,4,360,360,360,"['Clash of Arms Games', 'Tilsit']","['Ancient', 'Territory Building', 'Wargame']"
+290,Gold Digger,5.71934,11966,2,5,20,20,20,"['Hans im Glück', 'Out of the Box Publishing', 'SUNNY BIRD', 'Tactic']","['American West', 'Card Game']"
+291,Courtisans of Versailles,5.75039,18324,3,8,120,120,120,"['Clash of Arms Games', 'Dragon Radieux', 'Tilsit', 'Truant Spiele']","['Negotiation', 'Political']"
+292,Attacke,5.7142,18564,3,5,30,30,30,"['Asmodee', 'cosaic', 'F.X. Schmid', 'Group SNE']","['Card Game', 'Medieval']"
+293,Bamboleo,6.32088,4106,2,7,30,30,30,"['Competo / Marektoy', 'Kaissa Chess & Games', 'Rio Grande Games', 'Swan Panasia Co., Ltd.', 'Vennerød Forlag AS', 'Zoch Verlag']","['Action / Dexterity', 'Party Game']"
+294,Keydom,6.81247,11685,2,5,90,90,90,['R&D Games'],"['Bluffing', 'Fantasy', 'Medieval']"
+295,Europa 1945-2030,5.97779,10388,3,6,120,120,120,"['Descartes Editeur', 'Eurogames']","['Negotiation', 'Political']"
+296,Medieval Merchant,6.70316,3289,2,6,90,60,90,"['Goldsieber Spiele', 'Rio Grande Games']","['Economic', 'Medieval']"
+297,Stadens nyckel,5.2732,23876,3,6,120,120,120,"['Casper', 'Target Games']","['City Building', 'Political']"
+298,Lang lebe der König!,5.22053,23634,3,5,60,60,60,['F.X. Schmid'],['Wargame']
+299,De Bellis Antiquitatis: Quick Play Wargame Rules with Army Lists for Ancient and Medieval Battles,7.30763,3366,2,6,300,60,300,"['Hobby Products GmbH', 'Wargames Research Group', 'ZBB Editions']","['Ancient', 'Book', 'Medieval', 'Miniatures', 'Wargame']"
+300,Tutankhamen,6.12063,5101,2,6,30,30,30,"['AMIGO', 'Out of the Box Publishing', 'Éveil & Jeux', 'Group SNE']","['Abstract Strategy', 'Ancient']"
